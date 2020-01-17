@@ -53,14 +53,12 @@
                     <input class="form-control" type="text" name="txtUser"><br>
                     Password: <br>
                     <input class="form-control" type="password" name="txtPassword"><br>
-                    
-                    
+        
                                 <a class="btn btn-danger btn-flat btn-block btn-lg boton" href="http://localhost:8080/article/list">Login</a>
-                              
-                                   
+                                 
         </div>
         <br>
-                
+            
 
           <!--Final del Body-->
             <!--Inicio del Footer-->
