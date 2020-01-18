@@ -11,8 +11,7 @@
 <link href="https://fonts.googleapis.com/css?family=Abel|Cabin&display=swap" rel="stylesheet">
         <title>Sistema PQRS</title>
     </head>
-    <body>
-     
+    <body>     
           <div class="container">
             <!--Inicio del Header-->
             <div class="row" style="padding-top: 10px; padding-bottom: 10px;">
@@ -59,8 +58,7 @@
         </div>
         <br>
             
-
-          <!--Final del Body-->
+         <!--Final del Body-->
             <!--Inicio del Footer-->
             <div class="row" >
                 <div class="col-sm-12 text-center " style="background: #333333; color:#fff;">
